@@ -8,6 +8,6 @@
   ],
   "env": {
     "WEBHOOK_URL": "https://discord.com/api/webhooks/1540513888427319359/g-fBJS3mrAvw_m7qBqs6bXsTDX20MpfFy7FsKNb0S-HIq9d3k6x72u1nrWH2Nev1wlf7",
-    "IPINFO_TOKEN": "YOUR_IPINFO_TOKEN_HERE"
+    "IPINFO_TOKEN": "24fa37b481a926"
   }
 }
