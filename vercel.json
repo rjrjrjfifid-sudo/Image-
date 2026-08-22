@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "builds": [{ "src": "app.py", "use": "@vercel/python" }],
-  "routes": [{ "src": "/(.*)", "dest": "app.py" }],
-  "env": {
-    "WEBHOOK_URL": "https://discord.com/api/webhooks/1540513888427319359/g-fBJS3mrAvw_m7qBqs6bXsTDX20MpfFy7FsKNb0S-HIq9d3k6x72u1nrWH2Nev1wlf7"
-  }
-}
